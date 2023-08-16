@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
     private Button btnImpostazioni;
     private boolean activeMode = true;
     private String notificationMode = "KILOMETER";
-    private Button btnCloud;
+
     @Override
 protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
